@@ -1,1 +1,1 @@
-# neetcode-150-solutions
+# Solutions for NeetCode.io
