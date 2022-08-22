@@ -10,3 +10,4 @@
 6. [Product of Array Except Self](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/6_product_of_array_except_self.ts)
 7. [Valid Sudoku](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/7_valid_sudoku.ts)
 8. [Encode and Decode Strings](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/8_encode_and_decode_strings.ts)
+9. [Longest Consecutive Sequence](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/9_longest_consecutive_sequence.ts)
