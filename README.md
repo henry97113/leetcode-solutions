@@ -11,3 +11,4 @@
 7. [Valid Sudoku](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/7_valid_sudoku.ts)
 8. [Encode and Decode Strings](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/8_encode_and_decode_strings.ts)
 9. [Longest Consecutive Sequence](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/9_longest_consecutive_sequence.ts)
+10. [Valid Palindrome](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/10_valid_palindrome.ts)
