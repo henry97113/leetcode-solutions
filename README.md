@@ -15,3 +15,4 @@
 11. [Two Sum II - Input Array Is Sorted](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/11_two_sum_ii.ts)
 12. [3 Sum](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/12_3_sum.ts)
 13. [Container with Most Water](https://github.com/henry97113/neetcode-io-solutions/blob/main/13_container_with_most_water.ts)
+14. [Trapping Rain Water](https://github.com/henry97113/neetcode-io-solutions/blob/main/14_trapping_rain_water.ts)
