@@ -19,4 +19,5 @@
 15. [Best Time to Buy and Sell Stock](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/15_best_time_to_buy_and_sell_stock.ts)
 16. [Longest Substring Without Repeating Characters](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/16_longest_substring_without_repeating_characters.ts)
 17. [Longest Repeating Character Replacement](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/17_longest_repeating_character_replacement.ts)
-18. [Longest Repeating Character Replacement](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/19_minimum_window_substring.ts)
+19. [Minimum Window Substring](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/19_minimum_window_substring.ts)
+20. [Valid Parentheses](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/21_valid_parentheses.ts)
