@@ -1,6 +1,4 @@
-# Solutions for NeetCode.io
-
-## NeetCode 150
+# Leetcode solutions
 
 1. [Contains Duplicate](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/1_contains_duplicate.ts)
 2. [Valid Anagram](https://github.com/henry97113/neetcode-io-solutions/blob/main/neetcode-150/2_valid_anagram.ts)
