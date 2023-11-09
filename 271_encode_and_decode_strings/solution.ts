@@ -1,9 +1,3 @@
-/**
- * LeetCode 271
- * https://leetcode.com/problems/encode-and-decode-strings/ (LeetCode Premium)
- * https://www.lintcode.com/problem/659/
- */
-
 // str.length + "#" + str
 // e.g. ['apple', 'orange'] => "5#apple6#orange"
 
