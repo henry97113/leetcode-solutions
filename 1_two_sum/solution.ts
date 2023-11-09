@@ -1,8 +1,3 @@
-/**
- * LeetCode 1
- * https://leetcode.com/problems/two-sum/
- */
-
 function twoSum(nums: number[], target: number): number[] {
   const record: Record<string, number> = {};
 

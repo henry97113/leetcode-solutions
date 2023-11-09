@@ -1,8 +1,3 @@
-/**
- * LeetCode 347
- * https://leetcode.com/problems/top-k-frequent-elements/
- */
-
 function topKFrequent(nums: number[], k: number): number[] {
   const occurrences: Record<string, number> = Object.create(null);
   const buckets = Array.from<unknown, number[]>(

@@ -1,8 +1,3 @@
-/**
- * LeetCode 242
- * https://leetcode.com/problems/valid-anagram/
- */
-
 function isAnagram(s: string, t: string): boolean {
   if (s.length !== t.length) return false;
 

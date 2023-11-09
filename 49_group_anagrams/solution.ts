@@ -1,8 +1,3 @@
-/**
- * LeetCode 49
- * https://leetcode.com/problems/group-anagrams/
- */
-
 function groupAnagrams(strs: string[]): string[][] {
   const record: Record<string, string[]> = Object.create(null);
 
