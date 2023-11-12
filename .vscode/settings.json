@@ -2,5 +2,7 @@
   "github.copilot.enable": {
     "*": false
   },
-  "codium.enable": false
+  "codium.enable": false,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "basic"
 }
