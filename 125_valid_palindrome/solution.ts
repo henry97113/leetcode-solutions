@@ -1,8 +1,3 @@
-/**
- * LeetCode 125
- * https://leetcode.com/problems/valid-palindrome/
- */
-
 // Use regex to determine if the char is alphanumeric
 function isPalindrome1(s: string): boolean {
   const alphaNumericRegex = /^[A-Za-z0-9]$/;
