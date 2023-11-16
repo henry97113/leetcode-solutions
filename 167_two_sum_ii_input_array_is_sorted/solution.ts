@@ -1,8 +1,3 @@
-/**
- * LeetCode 167
- * https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
- */
-
 function twoSum(numbers: number[], target: number): number[] {
   let p1 = 0;
   let p2 = numbers.length - 1;
