@@ -1,8 +1,3 @@
-/**
- * https://leetcode.com/problems/3sum/
- * Time O(N ^ 2) | Space O(N)
- */
-
 function threeSum(nums: number[]): number[][] {
   nums.sort((a, b) => a - b);
 
