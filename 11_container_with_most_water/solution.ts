@@ -1,8 +1,3 @@
-/**
- * https://leetcode.com/problems/container-with-most-water/
- * Time: O(n) | Space: O(1)
- */
-
 function maxArea(height: number[]): number {
   let l = 0;
   let r = height.length - 1;
