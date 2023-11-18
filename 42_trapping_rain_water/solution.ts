@@ -1,9 +1,4 @@
 /**
- * https://leetcode.com/problems/trapping-rain-water/
- * Time: O(n) | Space: O(1)
- */
-
-/**
  * Time: O(n) | Space: O(n)
  */
 function trap1(height: number[]): number {
