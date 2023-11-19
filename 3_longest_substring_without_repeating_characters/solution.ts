@@ -1,8 +1,3 @@
-/**
- * https://leetcode.com/problems/longest-substring-without-repeating-characters/
- * Time: O(n) | Space: O(n)
- */
-
 function lengthOfLongestSubstring(s: string): number {
   let maxLen = 0;
   let l = 0;
