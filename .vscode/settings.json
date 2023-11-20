@@ -4,5 +4,10 @@
   },
   "codium.enable": false,
   "python.analysis.autoImportCompletions": true,
-  "python.analysis.typeCheckingMode": "basic"
+  "python.analysis.typeCheckingMode": "basic",
+  "flake8.args": [
+    "--max-line-length=100",
+    "--ignore=E131,E302,E741",
+    "--extend-ignore=W503,W504"
+  ]
 }
