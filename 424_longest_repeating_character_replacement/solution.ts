@@ -1,8 +1,3 @@
-/**
- * https://leetcode.com/problems/longest-repeating-character-replacement/
- * Time: O(n) | Space: O(26 * n)
- */
-
 function init() {
   const arr = Array.from({ length: 26 }).map<[string, number]>((cur, index) => {
     const aCode = 'A'.charCodeAt(0);
