@@ -1,7 +1,3 @@
-/**
- * https://leetcode.com/problems/valid-parentheses/
- * Time: O(N) | Space: O(N)
- */
 function isValid(s: string): boolean {
   if (s.length % 2 !== 0) return false;
 
